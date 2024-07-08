@@ -82,7 +82,7 @@ If the caller is the contract controller, the function simply forwards the call 
 - When called by Controller
 	- it should call `doTransfer()` in any case
 - When called by Token holder
-	- it should fail if the the sender didn't allow to transfer requested amount
+	- it should fail if the sender didn't allow to transfer requested amount
 	- it should call `doTransfer()` if the transfer allowed
 
 	
