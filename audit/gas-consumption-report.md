@@ -16,7 +16,7 @@ performed by Blockchain Labs, February 27, 2018
 
   Contract: Distribution Initialize
     ✓ Reserve should be less than total supply cap (584964 gas)
-    ✓ Distribution cap is a diffence between total supply cap and reserve (1877243 gas)
+    ✓ Distribution cap is a difference between total supply cap and reserve (1877243 gas)
     ✓ Token total supply should be 0 at the beginning of distribution (4121541 gas)
 
   Contract: Distribution
