@@ -14,7 +14,7 @@
 
   Contract: Distribution Initialize
     ✓ Reserve should be less than total supply cap (67ms)
-    ✓ Distribution cap is a diffence between total supply cap and reserve (156ms)
+    ✓ Distribution cap is a difference between total supply cap and reserve (156ms)
     ✓ Token total supply should be 0 at the beginning of distribution (228ms)
 
   Contract: Distribution
