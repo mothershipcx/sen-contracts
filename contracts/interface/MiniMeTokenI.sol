@@ -5,7 +5,7 @@ import "./Burnable.sol";
 
 
 /// @dev MiniMeToken interface. Using this interface instead of whole contracts
-///  will reduce contract sise and gas cost
+///  will reduce contract size and gas cost
 contract MiniMeTokenI is ERC20Token, Burnable {
 
   string public name;                //The Token's name: e.g. DigixDAO Tokens
